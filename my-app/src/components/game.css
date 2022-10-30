@@ -1,0 +1,90 @@
+body {
+    display: flex;
+    flex-direction: row;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #EDE4E0;
+}
+
+.gameContainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+ .header {
+    margin-top: 5vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 25px;
+    background-color: #251B37;
+    margin-bottom: 0vw;
+    flex-wrap: wrap;
+    border: 2px solid #EDE4E0;
+    border-radius: 15px;
+}
+
+.header .title {
+    text-align: center;
+    color: #FFECEF;
+    margin-top: 10px;
+
+}
+
+.header .score {
+
+    justify-content: center;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    color: #FFECEF;
+
+}
+
+.position {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.container {
+    margin-top: 0;
+    background-color: #EEEEEE;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    border: 2px solid #372948;
+    border-radius: 15px;
+    padding: 55px;
+    width: 90%;
+}
+
+.image {
+    flex-wrap: wrap;
+    border: 5px solid #372948;
+    border-radius: 20px;
+}
+
+.container-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btnsName {
+    margin-top: 20px;
+
+    background-color: #251B37;
+    color: #FFECEF;
+    padding: 25px;
+    border-radius: 10px;
+
+    box-shadow: 1px 2px 0 #EDE4E0;
+
+}
