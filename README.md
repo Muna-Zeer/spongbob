@@ -1,4 +1,4 @@
-#Random Number Guesser Game 
+# Random Number Guesser Game 
 
 This is a simple game built with ReactJS that allows users to guess a number from three randomly generated numbers. If the user selects the correct number, the Spongebob Squarepants image changes to a happy face and the background of the button turns green. If the user selects an incorrect number, the Spongebob Squarepants image changes to a sad face and the background of the button turns red. The game keeps track of the number of correct and incorrect guesses.
 
