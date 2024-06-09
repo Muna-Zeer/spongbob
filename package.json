@@ -1,0 +1,6 @@
+{
+"homepage": "https://Muna-Zeer.github.io/spongbob",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}}
