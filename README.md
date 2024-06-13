@@ -25,3 +25,7 @@ The game keeps track of the number of correct and incorrect guesses. To start a 
 
 ## Code Structure
 The game is built with ReactJS and uses the useState hook to manage state. The App.js file contains the main game logic, and the game.jsx file contains the Spongebob Squarepants component. The game.css file contains the game styling.
+
+## Live Demo
+You can view the project Demo here: [Spongebob Game ](https://spongbobgame.netlify.app/)
+ 
