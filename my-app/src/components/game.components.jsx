@@ -77,7 +77,7 @@ const Game = () => {
         </div>
         <br />
         <div className='container'>
-          <img src={image} className="image"></img>
+          <img src={image} className="image "alt="gameImg"></img>
           <div className='container-btn'>
             <button className='btnsName' onClick={() => ExpectedAnswer(0)} disabled={active ? true : false}>{randomNum[0]}</button>
             <button className='btnsName' onClick={() => ExpectedAnswer(1)} disabled={active ? true : false} >{randomNum[1]}</button>
